@@ -1,6 +1,6 @@
 # Desafío: Derecho a la vida
 
-Juego web educativo: 10 preguntas de desarrollo, temporizador de 5 minutos, puntaje automático de 1 punto por respuesta completada (máximo 10) y diseño pastel amarillo, crema, rosa y lavanda.
+Juego web educativo: 10 preguntas de desarrollo, temporizador de 15 minutos, puntaje automático de 1 punto por respuesta completada (máximo 10) y diseño pastel amarillo, crema, rosa y lavanda.
 
 ## Publicar en GitHub Pages
 1. Creá un repositorio y subí `index.html`, `style.css` y `script.js`.
